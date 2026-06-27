@@ -16,7 +16,7 @@ Advanced multi-threaded phpMyAdmin credential verification tool with intelligent
 ## Installation ⚙️
 
 ```bash
-git clone 
+git clone https://github.com/r00thex/PhpMyAdmin-Mass-Checker-main.git
 cd PhpMyAdmin-Mass-Checker
 pip install -r requirements.txt
 ```
